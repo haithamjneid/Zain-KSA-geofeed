@@ -1,79 +1,79 @@
-77.223.224.0/19,SA,SA-01,Riyadh,
-79.139.32.0/20,SA,SA-01,Riyadh,
-79.139.72.0/21,SA,SA-01,Riyadh,
-79.139.88.0/21,SA,SA-01,Riyadh,
-82.197.32.0/24,SA,SA-01,Riyadh,
-82.197.33.0/24,SA,SA-01,Riyadh,
-82.197.34.0/24,SA,SA-01,Riyadh,
-82.197.35.0/24,SA,SA-01,Riyadh,
-82.197.36.0/24,SA,SA-01,Riyadh,
-82.197.38.0/24,SA,SA-01,Riyadh,
-82.197.39.0/24,SA,SA-01,Riyadh,
-82.197.40.0/24,SA,SA-01,Riyadh,
-82.197.41.0/24,SA,SA-01,Riyadh,
-82.197.42.0/24,SA,SA-01,Riyadh,
-82.197.43.0/24,SA,SA-01,Riyadh,
-82.197.44.0/24,SA,SA-01,Riyadh,
-82.197.45.0/24,SA,SA-01,Riyadh,
-82.197.46.0/24,SA,SA-01,Riyadh,
-82.197.47.0/24,SA,SA-01,Riyadh,
-82.197.48.0/24,SA,SA-01,Riyadh,
-82.197.49.0/24,SA,SA-01,Riyadh,
-82.197.50.0/24,SA,SA-01,Riyadh,
-82.197.51.0/24,SA,SA-01,Riyadh,
-82.197.53.0/24,SA,SA-01,Riyadh,
-82.197.54.0/24,SA,SA-01,Riyadh,
-82.197.55.0/24,SA,SA-01,Riyadh,
-82.197.56.0/24,SA,SA-01,Riyadh,
-82.197.57.0/24,SA,SA-01,Riyadh,
-82.197.58.0/24,SA,SA-01,Riyadh,
-82.197.59.0/24,SA,SA-01,Riyadh,
-82.197.60.0/24,SA,SA-01,Riyadh,
-82.197.61.0/24,SA,SA-01,Riyadh,
-82.197.62.0/24,SA,SA-01,Riyadh,
-82.197.63.0/24,SA,SA-01,Riyadh,
-95.178.16.0/20,SA,SA-01,Riyadh,
-95.178.48.0/24,SA,SA-01,Riyadh,
-95.178.49.0/24,SA,SA-01,Riyadh,
-95.178.50.0/24,SA,SA-01,Riyadh,
-95.178.51.0/24,SA,SA-01,Riyadh,
-95.178.52.0/24,SA,SA-01,Riyadh,
-95.178.53.0/24,SA,SA-01,Riyadh,
-95.178.54.0/24,SA,SA-01,Riyadh,
-95.178.55.0/24,SA,SA-01,Riyadh,
-95.178.56.0/24,SA,SA-01,Riyadh,
-95.178.57.0/24,SA,SA-01,Riyadh,
-95.178.58.0/24,SA,SA-01,Riyadh,
-95.178.59.0/24,SA,SA-01,Riyadh,
-95.178.60.0/24,SA,SA-01,Riyadh,
-95.178.61.0/24,SA,SA-01,Riyadh,
-95.178.62.0/24,SA,SA-01,Riyadh,
-95.178.63.0/24,SA,SA-01,Riyadh,
-95.178.64.0/24,SA,SA-01,Riyadh,
-95.178.65.0/24,SA,SA-01,Riyadh,
-95.178.66.0/24,SA,SA-01,Riyadh,
-95.178.67.0/24,SA,SA-01,Riyadh,
-95.178.68.0/24,SA,SA-01,Riyadh,
-95.178.69.0/24,SA,SA-01,Riyadh,
-95.178.70.0/24,SA,SA-01,Riyadh,
-95.178.71.0/24,SA,SA-01,Riyadh,
-95.178.72.0/24,SA,SA-01,Riyadh,
-95.178.73.0/24,SA,SA-01,Riyadh,
-95.178.74.0/24,SA,SA-01,Riyadh,
-95.178.75.0/24,SA,SA-01,Riyadh,
-95.178.76.0/24,SA,SA-01,Riyadh,
-95.178.77.0/24,SA,SA-01,Riyadh,
-95.178.78.0/24,SA,SA-01,Riyadh,
-95.178.79.0/24,SA,SA-01,Riyadh,
-95.178.80.0/24,SA,SA-01,Riyadh,
-95.178.81.0/24,SA,SA-01,Riyadh,
-95.178.82.0/24,SA,SA-01,Riyadh,
-95.178.83.0/24,SA,SA-01,Riyadh,
-95.178.84.0/24,SA,SA-01,Riyadh,
-95.178.85.0/24,SA,SA-01,Riyadh,
-95.178.86.0/24,SA,SA-01,Riyadh,
-95.178.87.0/24,SA,SA-01,Riyadh,
-185.167.28.0/22,SA,SA-01,Riyadh,
-194.238.0.0/20,SA,SA-01,Riyadh,
-194.238.96.0/19,SA,SA-01,Riyadh,
-207.143.0.0/16,SA,SA-01,Riyadh,
+77.223.224.0/19	SA	Riyadh	Riyadh
+79.139.32.0/20	SA	Riyadh	Riyadh
+79.139.72.0/21	SA	Riyadh	Riyadh
+79.139.88.0/21	SA	Riyadh	Riyadh
+82.197.32.0/24	SA	Riyadh	Riyadh
+82.197.33.0/24	SA	Riyadh	Riyadh
+82.197.34.0/24	SA	Riyadh	Riyadh
+82.197.35.0/24	SA	Riyadh	Riyadh
+82.197.36.0/24	SA	Riyadh	Riyadh
+82.197.38.0/24	SA	Riyadh	Riyadh
+82.197.39.0/24	SA	Riyadh	Riyadh
+82.197.40.0/24	SA	Riyadh	Riyadh
+82.197.41.0/24	SA	Riyadh	Riyadh
+82.197.42.0/24	SA	Riyadh	Riyadh
+82.197.43.0/24	SA	Riyadh	Riyadh
+82.197.44.0/24	SA	Riyadh	Riyadh
+82.197.45.0/24	SA	Riyadh	Riyadh
+82.197.46.0/24	SA	Riyadh	Riyadh
+82.197.47.0/24	SA	Riyadh	Riyadh
+82.197.48.0/24	SA	Riyadh	Riyadh
+82.197.49.0/24	SA	Riyadh	Riyadh
+82.197.50.0/24	SA	Riyadh	Riyadh
+82.197.51.0/24	SA	Riyadh	Riyadh
+82.197.53.0/24	SA	Riyadh	Riyadh
+82.197.54.0/24	SA	Riyadh	Riyadh
+82.197.55.0/24	SA	Riyadh	Riyadh
+82.197.56.0/24	SA	Riyadh	Riyadh
+82.197.57.0/24	SA	Riyadh	Riyadh
+82.197.58.0/24	SA	Riyadh	Riyadh
+82.197.59.0/24	SA	Riyadh	Riyadh
+82.197.60.0/24	SA	Riyadh	Riyadh
+82.197.61.0/24	SA	Riyadh	Riyadh
+82.197.62.0/24	SA	Riyadh	Riyadh
+82.197.63.0/24	SA	Riyadh	Riyadh
+95.178.16.0/20	SA	Riyadh	Riyadh
+95.178.48.0/24	SA	Riyadh	Riyadh
+95.178.49.0/24	SA	Riyadh	Riyadh
+95.178.50.0/24	SA	Riyadh	Riyadh
+95.178.51.0/24	SA	Riyadh	Riyadh
+95.178.52.0/24	SA	Riyadh	Riyadh
+95.178.53.0/24	SA	Riyadh	Riyadh
+95.178.54.0/24	SA	Riyadh	Riyadh
+95.178.55.0/24	SA	Riyadh	Riyadh
+95.178.56.0/24	SA	Riyadh	Riyadh
+95.178.57.0/24	SA	Riyadh	Riyadh
+95.178.58.0/24	SA	Riyadh	Riyadh
+95.178.59.0/24	SA	Riyadh	Riyadh
+95.178.60.0/24	SA	Riyadh	Riyadh
+95.178.61.0/24	SA	Riyadh	Riyadh
+95.178.62.0/24	SA	Riyadh	Riyadh
+95.178.63.0/24	SA	Riyadh	Riyadh
+95.178.64.0/24	SA	Riyadh	Riyadh
+95.178.65.0/24	SA	Riyadh	Riyadh
+95.178.66.0/24	SA	Riyadh	Riyadh
+95.178.67.0/24	SA	Riyadh	Riyadh
+95.178.68.0/24	SA	Riyadh	Riyadh
+95.178.69.0/24	SA	Riyadh	Riyadh
+95.178.70.0/24	SA	Riyadh	Riyadh
+95.178.71.0/24	SA	Riyadh	Riyadh
+95.178.72.0/24	SA	Riyadh	Riyadh
+95.178.73.0/24	SA	Riyadh	Riyadh
+95.178.74.0/24	SA	Riyadh	Riyadh
+95.178.75.0/24	SA	Riyadh	Riyadh
+95.178.76.0/24	SA	Riyadh	Riyadh
+95.178.77.0/24	SA	Riyadh	Riyadh
+95.178.78.0/24	SA	Riyadh	Riyadh
+95.178.79.0/24	SA	Riyadh	Riyadh
+95.178.80.0/24	SA	Riyadh	Riyadh
+95.178.81.0/24	SA	Riyadh	Riyadh
+95.178.82.0/24	SA	Riyadh	Riyadh
+95.178.83.0/24	SA	Riyadh	Riyadh
+95.178.84.0/24	SA	Riyadh	Riyadh
+95.178.85.0/24	SA	Riyadh	Riyadh
+95.178.86.0/24	SA	Riyadh	Riyadh
+95.178.87.0/24	SA	Riyadh	Riyadh
+185.167.28.0/22	SA	Riyadh	Riyadh
+194.238.0.0/20	SA	Riyadh	Riyadh
+194.238.96.0/19	SA	Riyadh	Riyadh
+207.143.0.0/16	SA	Riyadh	Riyadh
